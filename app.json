@@ -2,6 +2,11 @@
   "expo": {
     "name": "reactApk",
     "slug": "reactApk",
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "extra": {
+      "eas": {
+        "projectId": "882d987e-ffcd-4e47-bbc5-67c4ee786d76"
+      }
+    }
   }
 }
